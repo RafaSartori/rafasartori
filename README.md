@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 </a> -->
 
-# Most Used Langages / Minhas Linguagens mais Usadas
+# Most Used Langages / Linguagens mais Usadas
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSartori&layout=compact)](https://github.com/RafaSartori/github-readme-stats)
 
 # Experiences & Tools / Experiência, Linguagens de Programação e Ferramentas
