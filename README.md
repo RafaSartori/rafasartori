@@ -68,6 +68,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 # Contact / Contato
 
 You can communicate with me via / Vocês podem entrar em contato comigo via 
-[E-Mail](mailto:rafa.sartori76@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/rafael-sartori-29b9b126/?trk=public-profile-join-page).
+[E-Mail](mailto:rafa.sartori76@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/rafael-sartori-29b9b126/).
 
 A vida é um eterno aprendizado e somos eternos aprendizes.
